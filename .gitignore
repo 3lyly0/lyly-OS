@@ -4,4 +4,6 @@
 *.iso
 # Ignore object files
 *.o
+# Ignore .gitignore
+.gitignore
 
