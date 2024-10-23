@@ -1,0 +1,7 @@
+# Ignore ELF files
+*.elf
+# Ignore ISO files
+*.iso
+# Ignore object files
+*.o
+
